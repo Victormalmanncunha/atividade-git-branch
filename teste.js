@@ -8,4 +8,4 @@ function subtracao(a, b){
     return a + b
 }
 
-console.log(subtracao(5, 6))
+console.log(subtracao(5, 7))
