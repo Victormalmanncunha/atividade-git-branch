@@ -9,3 +9,8 @@ function subtracao(a, b){
 }
 
 console.log(subtracao(5, 5))
+
+function divisao(a, b){
+    return a / b
+}
+console.log(divisao(10, 2))
