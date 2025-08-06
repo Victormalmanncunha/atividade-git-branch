@@ -1,5 +1,5 @@
 function soma(a, b){
-    return a + a
+    return a + b
 }
 
 console.log(soma(2,5))
